@@ -90,4 +90,4 @@
         * 0 = not locked.
         * 1 = locked.
 
-    * 다음과 같은 것들을 Atomic하게 실행한다.
+    * 다음과 같은 것들을 Atomic하게
